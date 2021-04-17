@@ -46,57 +46,57 @@ const About = () => {
                     </div>
                 </div>
             </div>
-            <div className="container p-0 pb-5 pt-5">
+            <div className="container pb-5 pt-5">
                 <h1 className="display-5">Project</h1>
                 <div className="row">
-                    <div class="card col-6 bg-light m-0">
-                        <div class="row mb-3 mt-3">
-                            <div class="col-6">
-                                <img src={laptop} alt="laptop" height="200em" />
+                    <div className="card col-md-5 col-sm-12 bg-dark text-white mb-3 mx-auto">
+                        <div className="row mb-3 mt-3">
+                            <div className="col-lg-6 col-12">
+                                <img src={laptop} alt="laptop" className="img-fluid px-3 px-md-0" />
                             </div>
-                            <div class="col-6">
-                                <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <div className="col-lg-6 col-12">
+                                <div className="card-body">
+                                    <h5 className="card-title">Card title</h5>
+                                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="card col-6 bg-light">
-                        <div class="row mb-3 mt-3">
-                            <div class="col-6">
-                                <img src={laptop} alt="laptop" height="200em" />
+                    <div className="card col-md-5 col-sm-12 bg-dark text-white mb-3 mx-auto">
+                        <div className="row mb-3 mt-3">
+                            <div className="col-lg-6 col-12">
+                                <img src={laptop} alt="laptop" className="img-fluid px-3 px-md-0" />
                             </div>
-                            <div class="col-6">
-                                <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <div className="col-lg-6 col-12">
+                                <div className="card-body">
+                                    <h5 className="card-title">Card title</h5>
+                                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="card mb-3 col-6 bg-light">
-                        <div class="row mb-3 mt-3">
-                            <div class="col-6">
-                                <img src={laptop} alt="laptop" height="200em" />
+                    <div className="card mb-3 col-5 mx-auto bg-dark text-white d-none d-md-block">
+                        <div className="row mb-3 mt-3">
+                            <div className="col-lg-6 col-12">
+                                <img src={laptop} alt="laptop" className="img-fluid" />
                             </div>
-                            <div class="col-6">
-                                <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <div className="col-lg-6 col-12">
+                                <div className="card-body">
+                                    <h5 className="card-title">Card title</h5>
+                                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="card mb-3 col-6 bg-light">
-                        <div class="row mb-3 mt-3">
-                            <div class="col-6">
-                                <img src={laptop} alt="laptop" height="200em" />
+                    <div className="card mb-3 col-5 mx-auto bg-dark text-white d-none d-md-block">
+                        <div className="row mb-3 mt-3">
+                            <div className="col-lg-6 col-12">
+                                <img src={laptop} alt="laptop" className="img-fluid" />
                             </div>
-                            <div class="col-6">
-                                <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <div className="col-lg-6 col-12">
+                                <div className="card-body">
+                                    <h5 className="card-title">Card title</h5>
+                                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                                 </div>
                             </div>
                         </div>

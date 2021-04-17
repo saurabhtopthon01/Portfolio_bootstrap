@@ -26,10 +26,9 @@ const Navbar = () => {
                     </div>
                     <div className="d-md-none col-8 text-white" style={{marginTop:'-250px'}}>
                         <p className="intro">
-                            <h1 className="display-4 ">Saurabh Kumar Singh</h1>
-                            <p>Saurabh is a designer focused on building brands and creating digital experiences.</p>
-                            <p>He specializes in bridging the tenets of brand identity with UX/UI to create innovative and impactful design solutions for the modern age.
-                                Aside from design, Saurabh plays piano, runs long distances, and consistently binges episodes of 30 Rock.</p>
+                            <h1 className="display-5">Saurabh Kumar Singh</h1>
+                            <h3 className="pb-4">Web Developer</h3>
+                            <p>Saurabh is a Web Developer,  with 3 years of experience.</p>
                                 <p>— Based in India</p>
                         </p>
                     </div>
